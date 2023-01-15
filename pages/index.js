@@ -65,8 +65,8 @@ export default function Home() {
               {!loading ? (
                 "Generate"
               ) : (
-                <div className="animate-pulse flex justify-center">
-                  <span class="self-center h-3 w-3 bg-purple-100 rounded-full"></span>
+                <div className="flex justify-center animate-pulse">
+                  <span class="h-4 w-4 bg-purple-200 border border-purple-400 rounded-full"></span>
                 </div>
               )}
             </button>
