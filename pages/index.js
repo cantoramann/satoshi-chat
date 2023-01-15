@@ -36,7 +36,7 @@ export default function Home() {
         <title>Chat with Satoshi Nakamoto</title>
         <meta name="description" content="Chat with Satoshi Nakamoto" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/infinity.svg" />
       </Head>
       <main>
         <div className="max-w-2xl mx-auto p-2 text-center">
